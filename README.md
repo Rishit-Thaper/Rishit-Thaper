@@ -47,8 +47,6 @@ I'm open to collaborating on real-world projects that can challenge and improve 
 
 Let's connect and build amazing projects together!
 
-## Portfolio
-
 ## GitHub
 
 Find my repositories on GitHub: [GitHub Profile](https://github.com/Rishit-Thaper)
