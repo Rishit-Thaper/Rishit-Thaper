@@ -1,6 +1,6 @@
 # Rishit Thaper - Full Stack Developer
 
-[Profile Picture](https://avatars.githubusercontent.com/u/104513221?s=96&v=4)
+[![Profile Picture](https://avatars.githubusercontent.com/u/104513221?s=96&v=4)]
 
 👋 Hi, I'm Rishit Thaper, a passionate Full Stack Developer with expertise in Node.js, React.js, C++, Java Core, MongoDB, SQL, and JavaScript. I also have experience working with tools like Filmora and Canva to enhance my projects visually.
 
@@ -24,11 +24,9 @@ I'm an enthusiastic developer who loves to build web applications and explore ne
 
 2. **DoDidDone - MERN Stack TODO Application**:
    - Description: A TODO application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack with user authentication and task management features.
-   - Repository: [Link](https://github.com/Rishit-Thaper/DoDidDone)
 
 3. **NewsApp - API Based Project**:
    - Description: A news application that fetches news from external APIs, allows users to save notes, and provides user authentication.
-   - Repository: [Link](https://github.com/Rishit-Thaper/AllinAll)
 
 ### Machine Learning Projects
 
@@ -53,15 +51,13 @@ Let's connect and build amazing projects together!
 
 ## Portfolio
 
-For more information and to see my latest projects, check out my portfolio: [Portfolio Link](https://your-portfolio-link.com)
-
 ## GitHub
 
 Find my repositories on GitHub: [GitHub Profile](https://github.com/Rishit-Thaper)
 
 ## LinkedIn
 
-Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rishit-thaper/)
+Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rishit-5463261a6/)
 
 ---
 _Thank you for visiting my GitHub! I look forward to collaborating and creating great things together._
