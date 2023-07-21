@@ -1,7 +1,5 @@
 # Rishit Thaper - Full Stack Developer
 
-[![Profile Picture](https://avatars.githubusercontent.com/u/104513221?s=96&v=4)]
-
 👋 Hi, I'm Rishit Thaper, a passionate Full Stack Developer with expertise in Node.js, React.js, C++, Java Core, MongoDB, SQL, and JavaScript. I also have experience working with tools like Filmora and Canva to enhance my projects visually.
 
 ## About Me
