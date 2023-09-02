@@ -8,7 +8,7 @@ I'm an enthusiastic developer who loves to build web applications and explore ne
 
 ## Skills
 
-- **Frontend**: React.js, JavaScript, HTML, CSS, Bootstrap
+- **Frontend**: React.js, JavaScript, HTML, CSS
 - **Backend**: Node.js, Express.js, MongoDB, SQL
 - **Languages**: C++, Java Core
 - **Tools**: Filmora, Canva
