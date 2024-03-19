@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thaperrishit@gmail.com**
 
-- ⚡ Fun fact **I read a lot of books.**
+- ⚡ Fun fact **I still don't know how to center a div.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
