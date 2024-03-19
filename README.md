@@ -8,42 +8,11 @@ I'm an enthusiastic developer who loves to build web applications and explore ne
 
 ## Skills
 
-- **Frontend**: React.js, JavaScript, HTML, CSS
-- **Backend**: Node.js, Express.js, MongoDB, SQL
-- **Languages**: C++, Java Core
-- **Tools**: Filmora, Canva
-
-## Projects
-
-### Web Projects
-
-1. **College Website Redesign**:
-   - Description: Redesigned my college website from scratch using React.js and Strapi CMS.
-
-2. **DoDidDone - MERN Stack TODO Application**:
-   - Description: A TODO application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack with user authentication and task management features.
-
-3. **NewsApp - API Based Project**:
-   - Description: A news application that fetches news from external APIs, allows users to save notes, and provides user authentication.
-
-### Machine Learning Projects
-
-4. **Bitcoin Price Prediction**:
-   - Description: Utilized machine learning algorithms to predict Bitcoin prices based on historical data.
-
-5. **Property Price Prediction**:
-   - Description: Developed a machine learning model to predict property prices based on various features.
-
-6. **Malady Augury - Disease Prediction System**:
-   - Description: Created a disease prediction system using machine learning algorithms that predict diseases based on symptoms provided by the user.
-
-## Collaboration
-
-I'm open to collaborating on real-world projects that can challenge and improve my skills further. If you have an exciting project or idea and are looking for a dedicated developer to contribute, feel free to reach out to me.
+https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black
 
 ## Contact
 
-📫 You can reach me via email at rishitthaper5329@gmail.com.
+📫 You can reach me via email at thaperrishit@gmail.com.
 
 Let's connect and build amazing projects together!
 
