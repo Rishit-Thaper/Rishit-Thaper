@@ -1,28 +1,32 @@
-# Rishit Thaper - Full Stack Developer
+<h1 align="center">Hi 👋, I'm Rishit</h1>
+<h3 align="center">A passionate full stack developer from India, crafting digital dreams into reality.</h3>
 
-👋 Hi, I'm Rishit Thaper, a passionate Full Stack Developer with expertise in Node.js, React.js, C++, Java Core, MongoDB, SQL, and JavaScript. I also have experience working with tools like Filmora and Canva to enhance my projects visually.
+- 👨‍💻 All of my projects are available at [dev-rishit.netlify.com](dev-rishit.netlify.com)
 
-## About Me
+- 📫 How to reach me **thaperrishit@gmail.com**
 
-I'm an enthusiastic developer who loves to build web applications and explore new technologies. My curiosity drives me to learn and adapt quickly, making me proficient in a diverse range of technologies. I enjoy working on challenging projects that allow me to showcase my skills and creativity.
+- ⚡ Fun fact **I read a lot of books.**
 
-## Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rishit." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishit." height="30" width="40" /></a>
+<a href="https://www.instagram.com/rishit_thaper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishit-thaper" height="30" width="40" /></a>
+</p>
 
-https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black
-
-## Contact
-
-📫 You can reach me via email at thaperrishit@gmail.com.
-
-Let's connect and build amazing projects together!
-
-## GitHub
-
-Find my repositories on GitHub: [GitHub Profile](https://github.com/Rishit-Thaper)
-
-## LinkedIn
-
-Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/rishit-5463261a6/)
-
----
-_Thank you for visiting my GitHub! I look forward to collaborating and creating great things together._
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EJS-B4CA65.svg?style=for-the-badge&logo=EJS&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"/>
+</p>
