@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishit</h1>
 <h3 align="center">A passionate full stack developer from India, crafting digital dreams into reality.</h3>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://dev-rishit.netlify.com)
+- 👨‍💻 All of my projects are available at my[Portfolio](https://dev-rishit.netlify.com)
 
 - 📫 How to reach me **thaperrishit@gmail.com**
 
