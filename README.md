@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishit</h1>
 <h3 align="center">Full Stack, full passion, all code!.</h3>
 
-- 👨‍💻 All of my projects are available at my [Portfolio](https://rishit-sde.vercel.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://profaile.app/p/rishit09)
 
 - 📫 How to reach me **thaperrishit@gmail.com**
 
